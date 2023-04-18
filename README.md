@@ -29,6 +29,23 @@
       <img src="https://img.shields.io/badge/figma-2D6EFB?style=for-the-badge&logo=figma&logoColor=white" alt="figma Badge"/>
     </div>
     <h2>👨‍💻 Проекты</h2>
+    <div align="center">
+       <a href="https://vvvolkova-92.github.io/react-burger/#">
+      <img src="https://s1.hostingkartinok.com/uploads/images/2023/04/d6e67fd46a43745148c458f197de4d4f.jpg" alt="react-burger pr" width="190"/>
+    </a> 
+     <a href="https://vvvolkova-92.github.io/resume/">
+      <img src="https://s1.hostingkartinok.com/uploads/images/2023/04/7c07f2163927a05671597b00e5afb164.jpg" alt="react-burger pr" width="190"/>
+    </a> 
+     <a href="https://vvvolkova-92.github.io/chess/">
+      <img src="https://s1.hostingkartinok.com/uploads/images/2023/04/4f691fbb8c4de539ef3d159a152bc8cf.jpg" alt="react-burger pr" width="190"/>
+    </a> 
+     <a href="https://vvvolkova-92.github.io/russian-travel/">
+      <img src="https://s1.hostingkartinok.com/uploads/images/2023/04/338d2f5ba1322f865a5124ec30cb6b81.jpg" alt="react-burger pr" width="190"/>
+    </a> 
+     <a href="https://vvvolkova-92.github.io/villain-party/">
+      <img src="https://s1.hostingkartinok.com/uploads/images/2023/04/eff2ea51e6ab8ab53c390dbddc87a569.jpeg" width="190"/>
+    </a> 
+    </div>
     <h2>👩‍💻 Мой '22-'23 </h2>
     Еще до начала анимации змейка слопала 50% активности 😃 <br>
     <img src="https://raw.githubusercontent.com/vvvolkova-92/vvvolkova-92/output/github-contribution-grid-snake.svg" align="center"/>
@@ -41,8 +58,5 @@
     </a>    
     <a href="https://www.linkedin.com/in/vvvolkova/">
       <img src="https://img.shields.io/badge/linkedin-35F93C?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
-    </a>     
-    <a href="https://www.linkedin.com/in/vvvolkova/">
-      <img src="https://img.shields.io/badge/linkedin-35F93C?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
-    </a>     
+    </a>      
 
