@@ -23,16 +23,29 @@
       <img src="https://img.shields.io/badge/jest-2D6EFB?style=for-the-badge&logo=jest&logoColor=white" alt="jest Badge"/>
       <img src="https://img.shields.io/badge/node.js-35F93C?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js Badge"/>
       <img src="https://img.shields.io/badge/CSS3-F6AAE7?style=for-the-badge&logo=css3&logoColor=white" alt="css Badge"/>
-        <img src="https://img.shields.io/badge/sass-2D6EFB?style=for-the-badge&logo=sass&logoColor=white" alt="sass Badge"/>
+       <img src="https://img.shields.io/badge/sass-2D6EFB?style=for-the-badge&logo=sass&logoColor=white" alt="sass Badge"/>
       <img src="https://img.shields.io/badge/HTML5-35F93C?style=for-the-badge&logo=html5&logoColor=white" alt="html Badge"/>
       <img src="https://img.shields.io/badge/MongoDB-F6AAE7?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB Badge"/>
       <img src="https://img.shields.io/badge/figma-2D6EFB?style=for-the-badge&logo=figma&logoColor=white" alt="figma Badge"/>
     </div>
-    <h2>👩‍💻 Мой '22 </h2>
-    <a href="https://skyline.github.com/vvvolkova-92/2022">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjEwZThjMTE2OWU0OTI2MGVjMWMxM2FhNDU1ZTMwOTA2YWY3MjkyZCZjdD1n/VBIUbtou0DELCh0cBE/giphy.gif" width="480" align="center"/>
+    <h2>👨‍💻 Проекты</h2>
+    <div align="center">
+      
+    </div>
+    <h2>👩‍💻 Мой '22-'23 </h2>
+    Еще до начала анимации змейка слопала 50% активности 😃 <br>
+    <img src="https://raw.githubusercontent.com/vvvolkova-92/vvvolkova-92/output/github-contribution-grid-snake.svg" align="center"/>
+    <h2>☎️ Контакты </h2>
+    <a href="https://t.me/violettavolkova">
+      <img src="https://img.shields.io/badge/telegram-F6AAE7?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
     </a>
-    [snake](https://raw.githubusercontent.com/vvvolkova-92/vvvolkova-92/output/github-contribution-grid-snake.svg)
-    
-
+    <a href="https://vk.com/violettasai">
+      <img src="https://img.shields.io/badge/vk-2D6EFB?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
+    </a>    
+    <a href="https://www.linkedin.com/in/vvvolkova/">
+      <img src="https://img.shields.io/badge/linkedin-35F93C?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
+    </a>     
+    <a href="https://www.linkedin.com/in/vvvolkova/">
+      <img src="https://img.shields.io/badge/linkedin-35F93C?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
+    </a>     
 
