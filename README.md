@@ -32,6 +32,7 @@
     <a href="https://skyline.github.com/vvvolkova-92/2022">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjEwZThjMTE2OWU0OTI2MGVjMWMxM2FhNDU1ZTMwOTA2YWY3MjkyZCZjdD1n/VBIUbtou0DELCh0cBE/giphy.gif" width="480" align="center"/>
     </a>
+    [snake](https://raw.githubusercontent.com/vvvolkova-92/vvvolkova-92/output/github-contribution-grid-snake.svg)
     
 
 
