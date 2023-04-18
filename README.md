@@ -29,8 +29,6 @@
       <img src="https://img.shields.io/badge/figma-2D6EFB?style=for-the-badge&logo=figma&logoColor=white" alt="figma Badge"/>
     </div>
     <h2>👨‍💻 Проекты</h2>
-    <div align="center">
-    </div>
     <h2>👩‍💻 Мой '22-'23 </h2>
     Еще до начала анимации змейка слопала 50% активности 😃 <br>
     <img src="https://raw.githubusercontent.com/vvvolkova-92/vvvolkova-92/output/github-contribution-grid-snake.svg" align="center"/>
